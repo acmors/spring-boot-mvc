@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;springBoot/src/main/resources/templates/cadastro/cadastro.html&apos; to &apos;cadastro-pessoa.html&apos;" description="Rename resource &apos;cadastro.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/templates/cadastro/cadastro.html" name="cadastro-pessoa.html" stamp="1726358526486" updateReferences="true"/>
+</session>
